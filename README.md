@@ -50,4 +50,4 @@ mvn spring-boot:run
 ```
 
 ## Test Git
-test siwtch branch
+test SWITCH branch
